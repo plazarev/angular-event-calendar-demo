@@ -2,7 +2,7 @@
 
 [![dhtmlx.com](https://img.shields.io/badge/made%20by-DHTMLX-blue)](https://dhtmlx.com/)
 
-[![DHTMLX Event Calendar with Angular Demo](https://raw.githubusercontent.com/DHTMLX/angular-event-calendar-demo/master/event-calendar.png)
+![DHTMLX Event Calendar with Angular Demo](https://raw.githubusercontent.com/DHTMLX/angular-event-calendar-demo/master/event-calendar.png)
 
 ## How to start
 
