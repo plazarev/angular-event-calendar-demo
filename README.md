@@ -17,6 +17,7 @@ You can also use [GitHub Codespaces](https://docs.github.com/en/codespaces/devel
 ## Useful links
 
 - **[Online demo](https://replit.com/@dhtmlx/dhtmlx-event-calendar-with-angular)**
+- [More demos about the DHTMLX widgetName functionality](https://snippet.dhtmlx.com/nh2g0j2o?tag=event_calendar)
 - [Technical support ](https://forum.dhtmlx.com/c/event-calendar)
 - [Documentation](https://docs.dhtmlx.com/eventcalendar/)
 
