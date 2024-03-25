@@ -1,5 +1,5 @@
 {
-  "name": "sandbox",
+  "name": "angular-event-calendar-demo",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
