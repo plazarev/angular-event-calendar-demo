@@ -9,10 +9,7 @@ import { EventCalendarComponent } from './event-calendar/event-calendar.componen
 		AppComponent,
 		EventCalendarComponent
 	],
-	imports: [
-		BrowserModule,
-	],
-	providers: [],
+	imports: [BrowserModule],
 	bootstrap: [AppComponent]
 })
 export class AppModule { }

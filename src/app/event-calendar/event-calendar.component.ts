@@ -14,22 +14,20 @@ import {
 	encapsulation: ViewEncapsulation.None,
 	selector: "event-calendar",
 	styleUrls: ["./event-calendar.component.css"],
-	template: `<div #here class="widget"></div>`,
+	template: `<div #container class="widget"></div>`,
 })
 
 export class EventCalendarComponent implements OnInit, OnDestroy {
-	@ViewChild("here", { static: true }) calendarContainer!: ElementRef;
+	@ViewChild("container", { static: true }) calendar_container!: ElementRef;
 
-	private _calendar: any;
+	private _calendar!: EventCalendar;
 
 	ngOnInit() {
 		const events = getData();
-		let calendar = new EventCalendar(this.calendarContainer.nativeElement, {
+		this._calendar = new EventCalendar(this.calendar_container.nativeElement, {
 			events,
 			date: new Date(2024, 5, 10),
 		});
-
-		this._calendar = calendar;
 	}
 
 	ngOnDestroy(): void {
