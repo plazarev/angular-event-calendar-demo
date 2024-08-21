@@ -2,10 +2,13 @@
 
 [![dhtmlx.com](https://img.shields.io/badge/made%20by-DHTMLX-blue)](https://dhtmlx.com/)
 
+[How to start](#how-to-start) | [Key features](#key-features) | [License](#license) | [Useful links](#links) | [Other examples](#examples) | [Join our online community](#join)
+
 ![DHTMLX Event Calendar with Angular Demo](https://raw.githubusercontent.com/DHTMLX/angular-event-calendar-demo/master/event-calendar.png)
 
 DHTMLX [JavaScript Event Calendar](https://dhtmlx.com/docs/products/dhtmlxEventCalendar/) is a lightweight widget for building a Google-like calendar for efficiently organizing appointments. End-users can manage events by drag-n-drop and display them in six different modes.
 
+<a name="how-to-start"></a>
 ## How to start
 
 ### Online
@@ -28,6 +31,7 @@ npm install
 npm run start
 ```
 
+<a name="key-features"></a>
 ## DHTMLX Event Calendar key features
 
 - Lightweight
@@ -49,6 +53,11 @@ npm run start
 - Stylization via CSS variables
 - Dynamic loading
 
+<a name="license"></a>
+## License ##
+This demo is available under the Evaluation license. To use it in your projects, please choose a proper license on the DHTMLX website: [https://dhtmlx.com/docs/products/licenses.shtml](https://dhtmlx.com/docs/products/licenses.shtml)
+
+<a name="links"></a>
 ## Useful links
 
 - [Online demo](https://replit.com/@dhtmlx/dhtmlx-event-calendar-with-angular)
@@ -56,7 +65,8 @@ npm run start
 - [Technical support ](https://forum.dhtmlx.com/c/event-calendar)
 - [Documentation](https://docs.dhtmlx.com/eventcalendar/)
 
-  ## Other examples
+<a name="examples"></a>
+## Other examples
 
 Check out examples of using DHTMLX Event Calendar with other technologies:
 
@@ -64,17 +74,10 @@ Check out examples of using DHTMLX Event Calendar with other technologies:
 | ----- | ----- | ----- | ----- | ----- |
 | [![javascript](https://dhtmlx.com/images/common/technologies/js.svg)](https://github.com/DHTMLX/docs-calendar) | [![react](https://dhtmlx.com/images/common/technologies/react.svg)](https://github.com/DHTMLX/react-event-calendar-demo) | [![svelte](https://dhtmlx.com/images/common/technologies/svelte.svg)](https://github.com/DHTMLX/svelte-event-calendar-demo) | [![vue](https://dhtmlx.com/images/common/technologies/vue.svg)](https://github.com/DHTMLX/vue-event-calendar-demo) | [![typescript](https://dhtmlx.com/images/common/technologies/typescript.svg)](https://docs.dhtmlx.com/eventcalendar/guides/typescript_support/)
 
+<a name="join"></a>
 ## Join our online community
 
 - Star our GitHub repo :star:
 - Watch our tutorials on [YouTube](https://www.youtube.com/user/dhtmlx/videos) :tv:
 - Read us on [Medium](https://dhtmlx.medium.com) :newspaper:
 - Follow us on [X](https://x.com/dhtmlx) :bird:
-
-## Follow us
-
-- Star our GitHub repo :star:
-- Watch our tutorials on [YouTube](https://www.youtube.com/user/dhtmlx/videos) :eyes:
-- Read us on [Medium](https://dhtmlx.medium.com) :newspaper:
-- Follow us on [Twitter](https://twitter.com/dhtmlx) :feet:
-- Like our page on [Facebook](https://www.facebook.com/dhtmlx/) :thumbsup:
